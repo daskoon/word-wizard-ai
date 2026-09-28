@@ -1,0 +1,40 @@
+{
+  "target": "page",
+  "name": "WordWizardMain",
+  "isRedesign": true,
+  "painPoints": [
+    "Visual clutter in previous 'cyberpunk' attempt",
+    "Lack of manual correction feedback",
+    "Poor contrast on board tiles"
+  ],
+  "inspiration": [
+    "Old Version Screenshots",
+    "Linear Mobile",
+    "Words With Friends (Original App)"
+  ],
+  "brandFeel": [
+    "Clean",
+    "Professional",
+    "Tactile",
+    "Utility-Focused"
+  ],
+  "density": "comfortable",
+  "targetUser": "Android Player",
+  "context": "mobile",
+  "constraints": [
+    "11x11 Grid Support",
+    "Touch Targets > 44px",
+    "Safe Area Insets for Android",
+    "Tailwind V4 Styling"
+  ],
+  "extractedTokens": {
+    "colors": {
+      "bg": "bg-slate-50",
+      "card": "bg-white",
+      "primary": "text-indigo-600",
+      "board": "bg-slate-200"
+    },
+    "spacing": "p-4 gap-4",
+    "radius": "rounded-xl"
+  }
+}

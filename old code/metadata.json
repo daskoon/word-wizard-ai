@@ -1,0 +1,7 @@
+{
+  "name": "WordWizard AI",
+  "description": "An advanced Words With Friends assistant that uses Gemini Vision to parse boards, score moves, and provide strategic advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
